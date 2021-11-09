@@ -1,9 +1,10 @@
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71836072/140939265-3a769bfc-e9ee-436b-8957-81d809906e1b.gif)
+
 <p>
   Sou <strong>Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programadora,</strong> profissional e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>
-
 <p>
   🚀  Estudando: <strong>JavaScript e React.Js.</strong>
 </p>
@@ -27,10 +28,6 @@
 ### Linguagens
 
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
-
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/71836072/140939265-3a769bfc-e9ee-436b-8957-81d809906e1b.gif)
 
 
 
