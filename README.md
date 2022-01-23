@@ -19,9 +19,11 @@
 
 
 
-### Cursos
+### Desenvolvendo
 
-📖 B7Web - Full Stack Developer.</br>
+📖 Desenvolve - Grupo Boticário - FULLSTACK</br>
+📖 ONE - Oracle Next Education - FRONTEND.</br>
+📖 B7Web - FULLSTACK.</br>
 📖 UI & UX Design de aplicativos e sites - Lucas Marte </br>
 
 ### Linguagens
