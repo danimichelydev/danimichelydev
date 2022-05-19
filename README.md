@@ -5,7 +5,7 @@
   Sou <strong>Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programadora,</strong> profissional e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>
 <p>
-  🚀  Estudando: <strong>JavaScript e React.Js.</strong>
+  🚀  Estudando: <strong>JavaScript, React.Js e Node.js.</strong>
 </p>
 
 <p> 💌 Envie uma mensagem: <a href="https://api.whatsapp.com/send?phone=5581988097313&text=Oi%2C%20sou%20Dani%20Michely%20%3B%20)%20Deixe%20sua%20mensagem!" alt="Whatsapp">
@@ -23,7 +23,7 @@
 ### Desenvolvendo
 
 📖 Desenvolve - Grupo Boticário - FULLSTACK</br>
-📖 ONE - Oracle Next Education - FRONTEND.</br>
+📖 Digital House - Potencia Teck - BACKEND.</br>
 📖 B7Web - FULLSTACK.</br>
 📖 UI & UX Design de aplicativos e sites - Lucas Marte </br>
 
