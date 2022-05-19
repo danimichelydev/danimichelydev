@@ -23,7 +23,7 @@
 ### Desenvolvendo
 
 📖 Desenvolve - Grupo Boticário - FULLSTACK</br>
-📖 Digital House - Potencia Teck - BACKEND.</br>
+📖 Digital House - Potencia Tech - BACKEND.</br>
 📖 B7Web - FULLSTACK.</br>
 📖 UI & UX Design de aplicativos e sites - Lucas Marte </br>
 
