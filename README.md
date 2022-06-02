@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="20px"> Olá seja bem-vindo(a)!</h2>
 
 
 <p>
