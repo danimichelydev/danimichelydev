@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="20px"> <h2> Olá seja bem-vindo(a)!</h2>
+## <h1>:wave: Olá seja bem-vindo(a)!</h1>
 
 
 <p>
