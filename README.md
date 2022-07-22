@@ -22,6 +22,7 @@
 
 ### Desenvolvendo
 
+📖 SOFTEX - Programa de Formação Acelerada - BACKEND.</br>
 📖 Desenvolve - Grupo Boticário - FULLSTACK</br>
 📖 Digital House - Potencia Tech - BACKEND.</br>
 📖 B7Web - FULLSTACK.</br>
