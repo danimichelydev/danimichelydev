@@ -6,7 +6,7 @@
 <strong>Atualmente trabalho com RPA com a ferramenta Automation Anywhere na empresa NTT Data</strong>
 <p>
   🚀  Possuo prática em: <strong>HTML5, CSS3, JavaScript, Python, RPA.</strong> <br>
-      Conhecimento em  <strong>NodeJS, ReactJs, Scrum, Kamban </strong>
+  🚀  Conhecimento em  <strong>NodeJS, ReactJs, Scrum, Kamban </strong>
 </p>
 
 <p> 💌 Envie uma mensagem: <a href="https://api.whatsapp.com/send?phone=5581988097313&text=Oi%2C%20sou%20Dani%20Michely%20%3B%20)%20Deixe%20sua%20mensagem!" alt="Whatsapp">
