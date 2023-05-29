@@ -2,10 +2,11 @@
 
 
 <p>
-  Sou <strong>Estudante de Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programadora,</strong> profissional e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>
+  Sou <strong>Programadora de Sistemas</strong>.<br />
+<strong>Atualmente trabalho com RPA com a ferramenta Automation Anywhere na empresa NTT Data</strong>
 <p>
-  🚀  Estudando: <strong>JavaScript, React.Js e Node.js.</strong>
+  🚀  Possuo prática em: <strong>HTML5, CSS3, JavaScript, Python, RPA.</strong>
+      Conhecimento em  <strong>NodeJS, ReactJs, Scrum, Kamban </strong>
 </p>
 
 <p> 💌 Envie uma mensagem: <a href="https://api.whatsapp.com/send?phone=5581988097313&text=Oi%2C%20sou%20Dani%20Michely%20%3B%20)%20Deixe%20sua%20mensagem!" alt="Whatsapp">
@@ -20,12 +21,12 @@
 
 
 
-### Desenvolvendo
+### Cursos e Bootcamps concluídos:
 
 📖 Desenvolve - Grupo Boticário - FULLSTACK</br>
-📖 Digital House - Potencia Tech - BACKEND.</br>
-📖 B7Web - FULLSTACK.</br>
-📖 UI & UX Design de aplicativos e sites - Lucas Marte </br>
+📖 ONE - Oracle Next Education - Front-end</br>
+📖 Ifood - Digital House/Potencia Tech - BACKEND com NodeJs.</br>
+📖 B7Web - FULLSTACK. - HTML5, CSS3, Javascript</br>
 
 ### Linguagens
 
