@@ -5,7 +5,7 @@
   Sou <strong>Programadora de Sistemas</strong>.<br />
 <strong>Atualmente trabalho com RPA com a ferramenta Automation Anywhere na empresa NTT Data</strong>
 <p>
-  🚀  Possuo prática em: <strong>HTML5, CSS3, JavaScript, Python, RPA.</strong>
+  🚀  Possuo prática em: <strong>HTML5, CSS3, JavaScript, Python, RPA.</strong> <br>
       Conhecimento em  <strong>NodeJS, ReactJs, Scrum, Kamban </strong>
 </p>
 
